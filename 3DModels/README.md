@@ -10,11 +10,11 @@ This is the central part of the bot, technically called the  tetrapod torso. It 
 
 |Assembly No|Assembly Name|Part|File Path|Count|Image||
 |--|--|--|--|--|--|--|
-|1|Body|Plate|3dModels/Body/Plate.stl|x1|<img src="Body/Plate.png" width="200"/>||
-|1|Body|Side|3dModels/Body/Side.stl|x2|<img src="Body/Side.png" width="200"/>||
-|1|Body|Battery Cover|3dModels/Body/Battery Cover.stl|x1|<img src="Body/Battery Cover.png" width="200"/>|optional|
-|1|Body|SBEC Cover|3dModels/Body/SBEC Cover.stl|x1|<img src="Body/SBEC Cover.png" width="200"/>|optional|
-|1|Body|Boards Cover|3dModels/Body/Boards Cover.stl|x1|<img src="Body/Boards Cover.png" width="200"/>|optional|
+|1|Body|Plate|3dModels/Body/Plate.stl|x1|<img src="Images/Plate.png" width="80"/>||
+|1|Body|Side|3dModels/Body/Side.stl|x2|<img src="Images/Side.png" width="80"/>||
+|1|Body|Battery Cover|3dModels/Body/Battery Cover.stl|x1|<img src="Images/Battery Cover.png" width="80"/>|optional|
+|1|Body|SBEC Cover|3dModels/Body/SBEC Cover.stl|x1|<img src="Images/SBEC Cover.png" width="80"/>|optional|
+|1|Body|Boards Cover|3dModels/Body/Boards Cover.stl|x1|<img src="Images/Boards Cover.png" width="80"/>|optional|
 
 ### Assembly 2. Front/Rear Shoulders
 
@@ -24,36 +24,36 @@ This is the central part of the bot, technically called the  tetrapod torso. It 
 
 |Assembly No|Assembly Name|Part|File Path|Count|Image||
 |--|--|--|--|--|--|--|
-|2|Front/Rear Shoulders|Inner Shoulder Plate|3dModels/Shoulders/Inner Plate/Inner Shoulder Plate.stl|x2|image|
-|2|Front/Rear Shoulders|Left Shoulder Limb Cover|3dModels/Shoulders/Limb/Left/Left Shoulder Limb Cover.stl|x2|image|
-|2|Front/Rear Shoulders|Left Shoulder Limb|3dModels/Shoulders/Limb/Left/Left Shoulder Limb.stl|x2|image|
-|2|Front/Rear Shoulders|Right Shoulder Limb Cover|3dModels/Shoulders/Limb/Right/Right Shoulder Limb Cover.stl|x2|image|
-|2|Front/Rear Shoulders|Right Shoulder Limb|3dModels/Shoulders/Limb/Right/Right Shoulder Limb.stl|x2|image|
-|2|Front/Rear Shoulders|Outer Shoulder Plate|3dModels/Shoulders/Outer Plate/Outer Shoulder Plate.stl|x2|image|
+|2|Front/Rear Shoulders|Inner Shoulder Plate|3dModels/Shoulders/Inner Plate/Inner Shoulder Plate.stl|x2|<img src="Images/Inner Shoulder Plate.png" width="80"/>|
+|2|Front/Rear Shoulders|Left Shoulder Limb Cover|3dModels/Shoulders/Limb/Left/Left Shoulder Limb Cover.stl|x2|<img src="Images/Left Shoulder Limb Cover.png" width="80"/>|
+|2|Front/Rear Shoulders|Left Shoulder Limb|3dModels/Shoulders/Limb/Left/Left Shoulder Limb.stl|x2|<img src="Images/Left Shoulder Limb.png" width="80"/>|
+|2|Front/Rear Shoulders|Right Shoulder Limb Cover|3dModels/Shoulders/Limb/Right/Right Shoulder Limb Cover.stl|x2|<img src="Images/Right Shoulder Limb Cover.png" width="80"/>|
+|2|Front/Rear Shoulders|Right Shoulder Limb|3dModels/Shoulders/Limb/Right/Right Shoulder Limb.stl|x2|<img src="Images/Right Shoulder Limb.png" width="80"/>|
+|2|Front/Rear Shoulders|Outer Shoulder Plate|3dModels/Shoulders/Outer Plate/Outer Shoulder Plate.stl|x2|<img src="Images/Outer Shoulder Plate.png" width="80"/>|
 
 ### Assembly 3. Left Leg
 |Assembly No|Assembly Name|Part|File Path|Count|Image||
 |--|--|--|--|--|--|--|
-|3|Left Leg|Shoe|3dModels/Legs/Shoe.stl|x2|image|
-|3|Left Leg|Left Foot Base|3dModels/Legs/Left/Foot/Left Foot Base.stl|x2|image|
-|3|Left Leg|Left Foot Inner|3dModels/Legs/Left/Foot/Left Foot Inner.stl|x2|image|
-|3|Left Leg|Left Foot Outer|3dModels/Legs/Left/Foot/Left Foot Outer.stl|x2|image|
-|3|Left Leg|Bearing End|3dModels/Legs/Left/Leg/Bearing End.stl|x2|image|
-|3|Left Leg|Cover|3dModels/Legs/Left/Leg/Cover.stl|x2|image|
-|3|Left Leg|Left Leg|3dModels/Legs/Left/Leg/Left Leg.stl|x2|image|
-|3|Left Leg|Servo End|3dModels/Legs/Left/Leg/Servo End.stl|x2|image|
+|3|Left Leg|Shoe|3dModels/Legs/Shoe.stl|x2|<img src="Images/Shoe.png" width="60"/>|
+|3|Left Leg|Left Foot Base|3dModels/Legs/Left/Foot/Left Foot Base.stl|x2|<img src="Images/Left Foot Base.png" width="60"/>|
+|3|Left Leg|Left Foot Inner|3dModels/Legs/Left/Foot/Left Foot Inner.stl|x2|<img src="Images/Left Foot Inner.png" width="60"/>|
+|3|Left Leg|Left Foot Outer|3dModels/Legs/Left/Foot/Left Foot Outer.stl|x2|<img src="Images/Left Foot Outer.png" width="60"/>|
+|3|Left Leg|Bearing End|3dModels/Legs/Left/Leg/Bearing End.stl|x2|<img src="Images/Left Bearing End.png" width="60"/>|
+|3|Left Leg|Cover|3dModels/Legs/Left/Leg/Cover.stl|x2|<img src="Images/Left Cover.png" width="60"/>|
+|3|Left Leg|Left Leg|3dModels/Legs/Left/Leg/Left Leg.stl|x2|<img src="Images/Left Leg.png" width="60"/>|
+|3|Left Leg|Servo End|3dModels/Legs/Left/Leg/Servo End.stl|x2|<img src="Images/Left Servo End.png" width="60"/>|
 
 ### Assembly 4. Right Leg
 |Assembly No|Assembly Name|Part|File Path|Count|Image||
 |--|--|--|--|--|--|--|
-|4|Right Leg|Shoe|3dModels/Legs/Shoe.stl|x2|image|
-|4|Right Leg|Right Foot Base|3dModels/Legs/Right/Foot/Right Foot Base.stl|x2|image|
-|4|Right Leg|Right Foot Inner|3dModels/Legs/Right/Foot/Right Foot Inner.stl|x2|image|
-|4|Right Leg|Right Foot Outer|3dModels/Legs/Right/Foot/Right Foot Outer.stl|x2|image|
-|4|Right Leg|Bearing End|3dModels/Legs/Right/Leg/Bearing End.stl|x2|image|
-|4|Right Leg|Cover|3dModels/Legs/Right/Leg/Cover.stl|x2|image|
-|4|Right Leg|Right Leg|3dModels/Legs/Right/Leg/Right Leg.stl|x2|image|
-|4|Right Leg|Servo End|3dModels/Legs/Right/Leg/Servo End.stl|x2|image|
+|4|Right Leg|Shoe|3dModels/Legs/Shoe.stl|x2|<img src="Images/Shoe.png" width="60"/>|
+|4|Right Leg|Right Foot Base|3dModels/Legs/Right/Foot/Right Foot Base.stl|x2|<img src="Images/Right Foot Base.png" width="60"/>|
+|4|Right Leg|Right Foot Inner|3dModels/Legs/Right/Foot/Right Foot Inner.stl|x2|<img src="Images/Right Foot Inner.png" width="60"/>|
+|4|Right Leg|Right Foot Outer|3dModels/Legs/Right/Foot/Right Foot Outer.stl|x2|<img src="Images/Right Foot Outer.png" width="60"/>|
+|4|Right Leg|Bearing End|3dModels/Legs/Right/Leg/Bearing End.stl|x2|<img src="Images/Right Bearing End.png" width="60"/>|
+|4|Right Leg|Cover|3dModels/Legs/Right/Leg/Cover.stl|x2|<img src="Images/Right Cover.png" width="40"/>|
+|4|Right Leg|Right Leg|3dModels/Legs/Right/Leg/Right Leg.stl|x2|<img src="Images/Right Leg.png" width="60"/>|
+|4|Right Leg|Servo End|3dModels/Legs/Right/Leg/Servo End.stl|x2|<img src="Images/Right Servo End.png" width="60"/>|
 
 ### Assembly 5. Top & Bottom Covers
 Two very similar parts that wrap the body (the previous assembly). One cover goes on the top and the other on the bottom.
