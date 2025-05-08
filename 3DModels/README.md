@@ -63,27 +63,26 @@ Two very similar parts that wrap the body (the previous assembly). One cover goe
 
 |Assembly No|Assembly Name|Part|File Path|Count|Image||
 |--|--|--|--|--|--|--|
-|5|Top/Bottom Covers|Battery Cover|3dModels/Body/Battery Cover.stl|x1|image|
-|5|Top/Bottom Covers|Bottom Panel|3dModels/Bottom/Bottom Panel.stl|x1|image|
-|5|Top/Bottom Covers|Edge Panel Connector|3dModels/Bottom/Edge Panel Connector.stl|x4|image|
-|5|Top/Bottom Covers|Left Side Panel|3dModels/Bottom/Left Side Panel.stl|x2|image|
-|5|Top/Bottom Covers|Offset|3dModels/Bottom/Offset.stl|x2|image|
-|5|Top/Bottom Covers|Right Side Panel|3dModels/Bottom/Right Side Panel.stl|x2|image|
-|5|Top/Bottom Covers|Charging Cover|3dModels/Top/Charging Cover.stl|x1|image|
-|5|Top/Bottom Covers|Top Cover with Opening|3dModels/Top/Top Cover with Opening.stl|x1|image|
+|5|Top/Bottom Covers|Bottom Panel|3dModels/Bottom/Bottom Panel.stl|x1|<img src="Images/Bottom Panel.png" width="60"/>|
+|5|Top/Bottom Covers|Edge Panel Connector|3dModels/Bottom/Edge Panel Connector.stl|x4|<img src="Images/Edge Panel Connector.png" width="60"/>|
+|5|Top/Bottom Covers|Left Side Panel|3dModels/Bottom/Left Side Panel.stl|x2|<img src="Images/Left Side Panel.png" width="60"/>|
+|5|Top/Bottom Covers|Offset|3dModels/Bottom/Offset.stl|x2|<img src="Images/Offset.png" width="60"/>|
+|5|Top/Bottom Covers|Right Side Panel|3dModels/Bottom/Right Side Panel.stl|x2|<img src="Images/Right Side Panel.png" width="60"/>|
+|5|Top/Bottom Covers|Charging Cover|3dModels/Top/Charging Cover.stl|x1|<img src="Images/Charging Cover.png" width="60"/>|
+|5|Top/Bottom Covers|Top Cover with Opening|3dModels/Top/Top Cover with Opening.stl|x1|<img src="Images/Top Cover with Opening.png" width="60"/>|
 
 ### Assembly 6. Head
 |Assembly No|Assembly Name|Part|File Path|Count|Image||
 |--|--|--|--|--|--|--|
-|6|Head|Connector|3dModels/Head/Connector.stl|x1|image|
-|6|Head|Face|3dModels/Head/Face.stl|x1|image|
-|6|Head|Middle|3dModels/Head/Middle.stl|x1|image|
-|6|Head|Nose|3dModels/Head/Nose.stl|x1|image|
+|6|Head|Connector|3dModels/Head/Connector.stl|x1|<img src="Images/Connector.png" width="60"/>|
+|6|Head|Face|3dModels/Head/Face.stl|x1|<img src="Images/Face.png" width="60"/>|
+|6|Head|Middle|3dModels/Head/Middle.stl|x1|<img src="Images/Middle.png" width="60"/>|
+|6|Head|Nose|3dModels/Head/Nose.stl|x1|<img src="Images/Nose.png" width="60"/>|
 
 ### Assembly 7. Rear
 |Assembly No|Assembly Name|Part|File Path|Count|Image||
 |--|--|--|--|--|--|--|
-|7|Rear|Rear Cover|3dModels/Rear/Rear Cover.stl|x2|image|
+|7|Rear|Rear Cover|3dModels/Rear/Rear Cover.stl|x2|<img src="Images/Rear.png" width="60"/>|
 
 ### Assembly 8. Stand
 
@@ -91,8 +90,8 @@ Two very similar parts that wrap the body (the previous assembly). One cover goe
 
 |Assembly No|Assembly Name|Part|File Path|Count|Image||
 |--|--|--|--|--|--|--|
-|8|Stand|Base|3dModels/Stand/Base x 2.stl|x2|image|
-|8|Stand|Cross Beam|3dModels/Stand/Cross Beam x 2.stl|x2|image|
-|8|Stand|Foot|3dModels/Stand/Foot x 4.stl|x4|image|
-|8|Stand|Fork|3dModels/Stand/Fork x 2.stl|x2|image|
-|8|Stand|Stem|3dModels/Stand/Stem x 2.stl|x2|image|
+|8|Stand|Base|3dModels/Stand/Base x 2.stl|x2|<img src="Images/Base.png" width="60"/>|
+|8|Stand|Cross Beam|3dModels/Stand/Cross Beam x 2.stl|x2|<img src="Images/Cross Beam.png" width="60"/>|
+|8|Stand|Foot|3dModels/Stand/Foot x 4.stl|x4|<img src="Images/Foot.png" width="60"/>|
+|8|Stand|Fork|3dModels/Stand/Fork x 2.stl|x2|<img src="Images/Fork.png" width="60"/>|
+|8|Stand|Stem|3dModels/Stand/Stem x 2.stl|x2|<img src="Images/Stem.png" width="60"/>|
